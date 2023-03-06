@@ -1,3 +1,5 @@
+# :white_check_mark: SUCCESS :white_check_mark:
+
 # Reverse String
 
 Welcome to Reverse String on Exercism's Rust Track.
